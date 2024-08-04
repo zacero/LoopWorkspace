@@ -284,11 +284,14 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           dexcom_upload_readings \
           future_carbs_4h \          
+          
           no_auth \      
-          meal_week \
+          
+          
+          
           2002 \
           basal_lock \
-          live_activity
+          
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
