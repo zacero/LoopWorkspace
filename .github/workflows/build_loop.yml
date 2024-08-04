@@ -283,15 +283,8 @@ jobs:
           /bin/bash -c "$(curl -fsSL \
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           dexcom_upload_readings \
-          future_carbs_4h \
-          
-          
-          no_auth \
-          
-          
-          
-          
-          
+          future_carbs_4h \          
+          no_auth \      
           meal_week \
           2002 \
           basal_lock \
