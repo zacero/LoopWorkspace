@@ -284,16 +284,12 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           dexcom_upload_readings \
           future_carbs_4h \
-          
-          
           no_auth \
           override_sens \
-          
-          
+        
           watch_title \
           2hlollipop \
-          
-          
+         
           2002 \
           basal_lock \
           live_activity
