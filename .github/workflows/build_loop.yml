@@ -286,10 +286,8 @@ jobs:
           future_carbs_4h \
           no_auth \
           override_sens \
-        
           watch_title \
           2hlollipop \
-         
           2002 \
           basal_lock \
           live_activity
