@@ -219,11 +219,12 @@ jobs:
           future_carbs_4h \
           no_auth \
           override_sens \
-          watch_title \
+          now_line \
           2hlollipop \
-          2002 \
+          profiles \
           basal_lock \
-          negative_insulin
+          negative_insulin\
+          meal_week
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
           
